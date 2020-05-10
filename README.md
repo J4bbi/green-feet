@@ -54,5 +54,6 @@ to reduce spread of coronavirus on public transport](https://www.standard.co.uk/
 * [Back to work: 'capacity of transport network will be down by 90%'](https://www.theguardian.com/world/2020/may/09/back-to-work-capacity-of-transport-network-will-be-down-by-90)
 * [UK government unveils £2bn cycle and walk to work plan for COVID-19](https://www.youtube.com/watch?v=UlteeyvX-3g)
 
-
+## Installation
+$ pip install -U googlemaps
 
